@@ -2,9 +2,9 @@
 # Lung Nodule Detection using Segmentation-Based V-Net Architecture
 
 ## Overview
-This project is a solo endeavor aimed at automating the detection of lung nodules from volumetric CT scans using a segmentation-based approach with a 3D V-Net architecture. The primary objective is to precisely segment lung regions and identify potential nodules to aid in early detection and diagnosis.
+This project aims to automate lung nodule detection from volumetric CT scans using a segmentation-based approach with a 3D V-Net architecture. The primary objective is to precisely segment lung regions and identify potential nodules to aid in early detection and diagnosis.
 
-The project leverages advanced preprocessing techniques, efficient patch-based segmentation, and deep learning to address the challenges posed by medical image analysis. The solution was developed and tested on the LUNA16 dataset, showcasing promising results.
+The project leverages advanced preprocessing techniques, efficient patch-based segmentation, and deep learning to address the challenges of medical image analysis. The solution was developed and tested on the LUNA16 dataset, showcasing promising results.
 
 ---
 
@@ -23,7 +23,7 @@ The project leverages advanced preprocessing techniques, efficient patch-based s
 
 3. **Evaluation Metrics**:
    - Dice Coefficient
-   - Intersection-over-Union (IoU)
+   - Intersection-over-Union (IOU)
    - Sensitivity
 
 4. **Results**:
