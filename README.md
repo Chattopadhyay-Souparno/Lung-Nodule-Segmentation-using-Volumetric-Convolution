@@ -177,4 +177,4 @@ Lung_Segmentation_Vnet/
 ## Conclusion
 This project demonstrates the potential of segmentation-based approaches for lung nodule detection using a V-Net architecture. By combining robust preprocessing, state-of-the-art architecture, and detailed evaluation, this work lays a foundation for scalable and accurate medical imaging solutions.
 
-For questions or feedback, feel free to reach out via GitHub Issues.
+For questions or feedback, feel free to reach out via souparno.chattopadhyay@gmail.com.
